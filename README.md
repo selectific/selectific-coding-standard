@@ -1,0 +1,1 @@
+# selectific-coding-standard
